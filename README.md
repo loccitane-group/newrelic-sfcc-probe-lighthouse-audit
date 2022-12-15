@@ -2,7 +2,7 @@
 JS Script for NewRelic Probes to get a Google Lighthouse audit for Performance/SEO/Accessibility/...
 
 <p align="center">
-![image](https://user-images.githubusercontent.com/11783843/207828871-f46354e1-f7c6-4bcd-b9ef-1fd456aa72d2.png)
+<img width="459" alt="image" src="https://user-images.githubusercontent.com/11783843/207828871-f46354e1-f7c6-4bcd-b9ef-1fd456aa72d2.png">
 </p>
 
 ## Install
